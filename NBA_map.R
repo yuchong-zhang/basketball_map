@@ -38,6 +38,7 @@ Team.visit$year.visit<-as.character(Team.visit$year.visit)
 #mp <- ggplot() +   mapWorld
 #mp
 
+setwd("/Users/Yuchong/Desktop/basketball/R4Fun/images")
 
 img_hou <- readPNG("hou.png")
 img_lal <- readPNG("lal.png")
